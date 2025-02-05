@@ -1,0 +1,182 @@
+[
+    {
+      "id": 1,
+      "name": "Bloom Essence",
+      "description": "A floral and sweet fragrance with hints of jasmine and vanilla, perfect for spring.",
+      "price": 79.99,
+      "inStock": true,
+      "releaseDate": "2023-05-12",
+      "imageUrl": "images/bloom-essence.jpg",
+      "category": "Floral",
+      "notes": ["Jasmine", "Vanilla", "Rose"],
+      "brand": {
+        "id": 101,
+        "name": "Luxury Scents Co.",
+        "established": 1985,
+        "country": "France",
+        "logoUrl": "images/luxury-scents-logo.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Midnight Elegance",
+      "description": "A deep and mysterious scent with woody and musky notes, ideal for evening wear.",
+      "price": 95.50,
+      "inStock": false,
+      "releaseDate": "2022-11-25",
+      "imageUrl": "images/midnight-elegance.jpg",
+      "category": "Woody",
+      "notes": ["Sandalwood", "Amber", "Musk"],
+      "brand": {
+        "id": 102,
+        "name": "Velvet Perfumes",
+        "established": 1998,
+        "country": "Italy",
+        "logoUrl": "images/velvet-perfumes-logo.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Citrus Bliss",
+      "description": "A zesty and vibrant perfume with bursts of lemon, grapefruit, and orange blossoms.",
+      "price": 68.25,
+      "inStock": true,
+      "releaseDate": "2021-07-15",
+      "imageUrl": "images/citrus-bliss.jpg",
+      "category": "Citrus",
+      "notes": ["Lemon", "Grapefruit", "Orange Blossom"],
+      "brand": {
+        "id": 101,
+        "name": "Luxury Scents Co.",
+        "established": 1985,
+        "country": "France",
+        "logoUrl": "images/luxury-scents-logo.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Ocean Breeze",
+      "description": "A fresh and aquatic scent that evokes the refreshing feeling of the sea.",
+      "price": 72.50,
+      "inStock": true,
+      "releaseDate": "2023-03-10",
+      "imageUrl": "images/ocean-breeze.jpg",
+      "category": "Fresh",
+      "notes": ["Sea Salt", "Citrus", "Musk"],
+      "brand": {
+        "id": 103,
+        "name": "Aqua Parfum",
+        "established": 2005,
+        "country": "Greece",
+        "logoUrl": "images/aqua-parfum-logo.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Amber Velvet",
+      "description": "A sensual and warm scent with rich amber and a hint of spice.",
+      "price": 89.99,
+      "inStock": false,
+      "releaseDate": "2020-10-05",
+      "imageUrl": "images/amber-velvet.jpg",
+      "category": "Oriental",
+      "notes": ["Amber", "Cinnamon", "Patchouli"],
+      "brand": {
+        "id": 102,
+        "name": "Velvet Perfumes",
+        "established": 1998,
+        "country": "Italy",
+        "logoUrl": "images/velvet-perfumes-logo.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Rose Petals",
+      "description": "A romantic and feminine fragrance with a bouquet of fresh roses.",
+      "price": 85.00,
+      "inStock": true,
+      "releaseDate": "2022-05-01",
+      "imageUrl": "images/rose-petals.jpg",
+      "category": "Floral",
+      "notes": ["Rose", "Lily", "Sandalwood"],
+      "brand": {
+        "id": 101,
+        "name": "Luxury Scents Co.",
+        "established": 1985,
+        "country": "France",
+        "logoUrl": "images/luxury-scents-logo.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Mystic Oud",
+      "description": "An intense and captivating scent with oud wood and spicy undertones.",
+      "price": 120.75,
+      "inStock": false,
+      "releaseDate": "2021-02-14",
+      "imageUrl": "images/mystic-oud.jpg",
+      "category": "Woody",
+      "notes": ["Oud", "Spices", "Leather"],
+      "brand": {
+        "id": 104,
+        "name": "Royal Essence",
+        "established": 2010,
+        "country": "United Arab Emirates",
+        "logoUrl": "images/royal-essence-logo.jpg"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Vanilla Dreams",
+      "description": "A soft and comforting scent of creamy vanilla and caramel.",
+      "price": 64.99,
+      "inStock": true,
+      "releaseDate": "2023-08-12",
+      "imageUrl": "images/vanilla-dreams.jpg",
+      "category": "Gourmand",
+      "notes": ["Vanilla", "Caramel", "Tonka Bean"],
+      "brand": {
+        "id": 105,
+        "name": "Sweet Aromas",
+        "established": 2000,
+        "country": "Belgium",
+        "logoUrl": "images/sweet-aromas-logo.jpg"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Lavender Mist",
+      "description": "A calming and soothing fragrance with lavender and fresh herbs.",
+      "price": 70.50,
+      "inStock": true,
+      "releaseDate": "2022-06-18",
+      "imageUrl": "images/lavender-mist.jpg",
+      "category": "Aromatic",
+      "notes": ["Lavender", "Bergamot", "Herbs"],
+      "brand": {
+        "id": 106,
+        "name": "Nature's Touch",
+        "established": 2015,
+        "country": "Switzerland",
+        "logoUrl": "images/natures-touch-logo.jpg"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Golden Sands",
+      "description": "A luxurious and radiant scent with amber, citrus, and a hint of spice.",
+      "price": 95.25,
+      "inStock": true,
+      "releaseDate": "2024-01-10",
+      "imageUrl": "images/golden-sands.jpg",
+      "category": "Oriental",
+      "notes": ["Amber", "Citrus", "Spices"],
+      "brand": {
+        "id": 104,
+        "name": "Royal Essence",
+        "established": 2010,
+        "country": "United Arab Emirates",
+        "logoUrl": "images/royal-essence-logo.jpg"
+      }
+    }
+  ]

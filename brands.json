@@ -1,0 +1,45 @@
+[
+    {
+      "id": 101,
+      "name": "Luxury Scents Co.",
+      "established": 1985,
+      "country": "France",
+      "logoUrl": "images/luxury-scents-logo.jpg"
+    },
+    {
+      "id": 102,
+      "name": "Velvet Perfumes",
+      "established": 1998,
+      "country": "Italy",
+      "logoUrl": "images/velvet-perfumes-logo.jpg"
+    },
+    {
+      "id": 103,
+      "name": "Aqua Parfum",
+      "established": 2005,
+      "country": "Greece",
+      "logoUrl": "images/aqua-parfum-logo.jpg"
+    },
+    {
+      "id": 104,
+      "name": "Royal Essence",
+      "established": 2010,
+      "country": "United Arab Emirates",
+      "logoUrl": "images/royal-essence-logo.jpg"
+    },
+    {
+      "id": 105,
+      "name": "Sweet Aromas",
+      "established": 2000,
+      "country": "Belgium",
+      "logoUrl": "images/sweet-aromas-logo.jpg"
+    },
+    {
+      "id": 106,
+      "name": "Nature's Touch",
+      "established": 2015,
+      "country": "Switzerland",
+      "logoUrl": "images/natures-touch-logo.jpg"
+    }
+  ]
+  
