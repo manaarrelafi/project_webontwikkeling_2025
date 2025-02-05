@@ -6,7 +6,7 @@
       "price": 79.99,
       "inStock": true,
       "releaseDate": "2023-05-12",
-      "imageUrl": "images/bloom-essence.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/bloom-essence.jpg",
       "category": "Floral",
       "notes": ["Jasmine", "Vanilla", "Rose"],
       "brand": {
@@ -14,7 +14,7 @@
         "name": "Luxury Scents Co.",
         "established": 1985,
         "country": "France",
-        "logoUrl": "images/luxury-scents-logo.jpg"
+        "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/luxury-scents-logo.jpg"
       }
     },
     {
@@ -24,7 +24,7 @@
       "price": 95.50,
       "inStock": false,
       "releaseDate": "2022-11-25",
-      "imageUrl": "images/midnight-elegance.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/midnight-elegance.jpg",
       "category": "Woody",
       "notes": ["Sandalwood", "Amber", "Musk"],
       "brand": {
@@ -32,7 +32,7 @@
         "name": "Velvet Perfumes",
         "established": 1998,
         "country": "Italy",
-        "logoUrl": "images/velvet-perfumes-logo.jpg"
+        "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/velvet-perfumes-logo.jpg"
       }
     },
     {
@@ -42,7 +42,7 @@
       "price": 68.25,
       "inStock": true,
       "releaseDate": "2021-07-15",
-      "imageUrl": "images/citrus-bliss.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/citrus-bliss.jpg",
       "category": "Citrus",
       "notes": ["Lemon", "Grapefruit", "Orange Blossom"],
       "brand": {
@@ -50,7 +50,7 @@
         "name": "Luxury Scents Co.",
         "established": 1985,
         "country": "France",
-        "logoUrl": "images/luxury-scents-logo.jpg"
+        "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/luxury-scents-logo.jpg"
       }
     },
     {
@@ -60,7 +60,7 @@
       "price": 72.50,
       "inStock": true,
       "releaseDate": "2023-03-10",
-      "imageUrl": "images/ocean-breeze.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/ocean-breeze.jpg",
       "category": "Fresh",
       "notes": ["Sea Salt", "Citrus", "Musk"],
       "brand": {
@@ -68,7 +68,7 @@
         "name": "Aqua Parfum",
         "established": 2005,
         "country": "Greece",
-        "logoUrl": "images/aqua-parfum-logo.jpg"
+        "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/aqua-parfum-logo.jpg"
       }
     },
     {
@@ -78,7 +78,7 @@
       "price": 89.99,
       "inStock": false,
       "releaseDate": "2020-10-05",
-      "imageUrl": "images/amber-velvet.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/amber-velvet.jpg",
       "category": "Oriental",
       "notes": ["Amber", "Cinnamon", "Patchouli"],
       "brand": {
@@ -86,7 +86,7 @@
         "name": "Velvet Perfumes",
         "established": 1998,
         "country": "Italy",
-        "logoUrl": "images/velvet-perfumes-logo.jpg"
+        "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/velvet-perfumes-logo.jpg"
       }
     },
     {
@@ -96,7 +96,7 @@
       "price": 85.00,
       "inStock": true,
       "releaseDate": "2022-05-01",
-      "imageUrl": "images/rose-petals.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/rose-petals.jpg",
       "category": "Floral",
       "notes": ["Rose", "Lily", "Sandalwood"],
       "brand": {
@@ -104,7 +104,7 @@
         "name": "Luxury Scents Co.",
         "established": 1985,
         "country": "France",
-        "logoUrl": "images/luxury-scents-logo.jpg"
+        "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/luxury-scents-logo.jpg"
       }
     },
     {
@@ -114,7 +114,7 @@
       "price": 120.75,
       "inStock": false,
       "releaseDate": "2021-02-14",
-      "imageUrl": "images/mystic-oud.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/mystic-oud.jpg",
       "category": "Woody",
       "notes": ["Oud", "Spices", "Leather"],
       "brand": {
@@ -122,7 +122,7 @@
         "name": "Royal Essence",
         "established": 2010,
         "country": "United Arab Emirates",
-        "logoUrl": "images/royal-essence-logo.jpg"
+        "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/royal-essence-logo.jpg"
       }
     },
     {
@@ -132,7 +132,7 @@
       "price": 64.99,
       "inStock": true,
       "releaseDate": "2023-08-12",
-      "imageUrl": "images/vanilla-dreams.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/vanilla-dreams.jpg",
       "category": "Gourmand",
       "notes": ["Vanilla", "Caramel", "Tonka Bean"],
       "brand": {
@@ -140,7 +140,7 @@
         "name": "Sweet Aromas",
         "established": 2000,
         "country": "Belgium",
-        "logoUrl": "images/sweet-aromas-logo.jpg"
+        "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/sweet-aromas-logo.jpg"
       }
     },
     {
@@ -150,7 +150,7 @@
       "price": 70.50,
       "inStock": true,
       "releaseDate": "2022-06-18",
-      "imageUrl": "images/lavender-mist.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/lavender-mist.jpg",
       "category": "Aromatic",
       "notes": ["Lavender", "Bergamot", "Herbs"],
       "brand": {
@@ -158,7 +158,7 @@
         "name": "Nature's Touch",
         "established": 2015,
         "country": "Switzerland",
-        "logoUrl": "images/natures-touch-logo.jpg"
+        "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/natures-touch-logo.jpg"
       }
     },
     {
@@ -168,7 +168,7 @@
       "price": 95.25,
       "inStock": true,
       "releaseDate": "2024-01-10",
-      "imageUrl": "images/golden-sands.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/golden-sands.jpg",
       "category": "Oriental",
       "notes": ["Amber", "Citrus", "Spices"],
       "brand": {
@@ -176,7 +176,7 @@
         "name": "Royal Essence",
         "established": 2010,
         "country": "United Arab Emirates",
-        "logoUrl": "images/royal-essence-logo.jpg"
+        "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/royal-essence-logo.jpg"
       }
     }
   ]
