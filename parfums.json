@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "name": "Fleur de Sens",
+    "name": "flora",
     "description": "A refined floral fragrance with elegant notes of lily, rose, and jasmine.",
     "price": 89.99,
     "inStock": true,
     "releaseDate": "2023-04-20",
-    "imageUrl": "https://example.com/images/fleur-de-sens.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/fleur-de-sens.jpg",
     "category": "Floral",
     "notes": ["Lily", "Rose", "Jasmine"],
     "brand": {
@@ -14,17 +14,17 @@
       "name": "Dior",
       "established": 1946,
       "country": "France",
-      "logoUrl": "https://example.com/images/dior-logo.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/dior-logo.jpg"
     }
   },
   {
     "id": 2,
-    "name": "Velvet Bloom",
+    "name": "paradoxe",
     "description": "A smooth and luxurious scent with rich floral and musky undertones.",
     "price": 120.50,
     "inStock": true,
     "releaseDate": "2022-09-15",
-    "imageUrl": "https://example.com/images/velvet-bloom.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/velvet-bloom.jpg",
     "category": "Woody",
     "notes": ["Sandalwood", "Musk", "Peony"],
     "brand": {
@@ -32,17 +32,17 @@
       "name": "Prada",
       "established": 1913,
       "country": "Italy",
-      "logoUrl": "https://example.com/images/prada-logo.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/prada-logo.jpg"
     }
   },
   {
     "id": 3,
-    "name": "L'Élégance",
+    "name": "libre",
     "description": "A sophisticated fragrance with hints of blackcurrant, vanilla, and amber.",
     "price": 95.25,
     "inStock": false,
     "releaseDate": "2023-01-30",
-    "imageUrl": "https://example.com/images/lelegance.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/lelegance.jpg",
     "category": "Oriental",
     "notes": ["Blackcurrant", "Vanilla", "Amber"],
     "brand": {
@@ -50,17 +50,17 @@
       "name": "YSL",
       "established": 1961,
       "country": "France",
-      "logoUrl": "https://example.com/images/ysl-logo.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/ysl-logo.jpg"
     }
   },
   {
     "id": 4,
-    "name": "Divine Bloom",
+    "name": "l'interdit",
     "description": "A radiant fragrance with citrus top notes and a base of warm woods.",
     "price": 88.90,
     "inStock": true,
     "releaseDate": "2023-05-10",
-    "imageUrl": "https://example.com/images/divine-bloom.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/divine-bloom.jpg",
     "category": "Citrus",
     "notes": ["Citrus", "Bergamot", "Sandalwood"],
     "brand": {
@@ -68,17 +68,17 @@
       "name": "Givenchy",
       "established": 1952,
       "country": "France",
-      "logoUrl": "https://example.com/images/givenchy-logo.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/givenchy-logo.jpg"
     }
   },
   {
     "id": 5,
-    "name": "Coco Essence",
+    "name": "No. 5",
     "description": "An enchanting blend of vanilla and floral accords with a hint of orange blossom.",
     "price": 98.50,
     "inStock": true,
     "releaseDate": "2022-03-25",
-    "imageUrl": "https://example.com/images/coco-essence.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/coco-essence.jpg",
     "category": "Gourmand",
     "notes": ["Vanilla", "Orange Blossom", "Tonka Bean"],
     "brand": {
@@ -86,17 +86,17 @@
       "name": "Chanel",
       "established": 1910,
       "country": "France",
-      "logoUrl": "https://example.com/images/chanel-logo.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/chanel-logo.jpg"
     }
   },
   {
     "id": 6,
-    "name": "Gucci Flora",
+    "name": "bloom",
     "description": "A fresh and uplifting scent with floral notes of rose and magnolia.",
     "price": 75.99,
     "inStock": false,
     "releaseDate": "2021-11-05",
-    "imageUrl": "https://example.com/images/gucci-flora.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/gucci-flora.jpg",
     "category": "Floral",
     "notes": ["Magnolia", "Rose", "Citrus"],
     "brand": {
@@ -104,17 +104,17 @@
       "name": "Gucci",
       "established": 1921,
       "country": "Italy",
-      "logoUrl": "https://example.com/images/gucci-logo.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/gucci-logo.jpg"
     }
   },
   {
     "id": 7,
-    "name": "Noir Intense",
+    "name": "lost cherry",
     "description": "A bold and mysterious scent with dark woods and spicy undertones.",
     "price": 115.75,
     "inStock": true,
     "releaseDate": "2023-09-12",
-    "imageUrl": "https://example.com/images/noir-intense.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/noir-intense.jpg",
     "category": "Woody",
     "notes": ["Oud", "Black Pepper", "Leather"],
     "brand": {
@@ -122,17 +122,17 @@
       "name": "Tom Ford",
       "established": 2006,
       "country": "USA",
-      "logoUrl": "https://example.com/images/tom-ford-logo.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/tom-ford-logo.jpg"
     }
   },
   {
     "id": 8,
-    "name": "Jardin d'Amour",
+    "name": "J'adore",
     "description": "A refreshing and youthful scent that captures the spirit of spring.",
     "price": 72.50,
     "inStock": true,
     "releaseDate": "2022-06-15",
-    "imageUrl": "https://example.com/images/jardin-damour.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/jardin-damour.jpg",
     "category": "Fresh",
     "notes": ["Lemon", "Green Tea", "Jasmine"],
     "brand": {
@@ -140,17 +140,17 @@
       "name": "Dior",
       "established": 1946,
       "country": "France",
-      "logoUrl": "https://example.com/images/dior-logo.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/dior-logo.jpg"
     }
   },
   {
     "id": 9,
-    "name": "Amber Nights",
+    "name": "coco",
     "description": "A warm and sensual fragrance with amber, spices, and vanilla.",
     "price": 110.99,
     "inStock": true,
     "releaseDate": "2021-04-01",
-    "imageUrl": "https://example.com/images/amber-nights.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/amber-nights.jpg",
     "category": "Oriental",
     "notes": ["Amber", "Cinnamon", "Patchouli"],
     "brand": {
@@ -158,17 +158,17 @@
       "name": "Chanel",
       "established": 1910,
       "country": "France",
-      "logoUrl": "https://example.com/images/chanel-logo.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/chanel-logo.jpg"
     }
   },
   {
     "id": 10,
-    "name": "Mystic Breeze",
+    "name": "guilty",
     "description": "A clean and vibrant scent with aquatic notes and a hint of citrus.",
     "price": 85.50,
     "inStock": true,
     "releaseDate": "2023-08-10",
-    "imageUrl": "https://example.com/images/mystic-breeze.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/mystic-breeze.jpg",
     "category": "Fresh",
     "notes": ["Sea Salt", "Citrus", "White Musk"],
     "brand": {
@@ -176,7 +176,7 @@
       "name": "Gucci",
       "established": 1921,
       "country": "Italy",
-      "logoUrl": "https://example.com/images/gucci-logo.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/gucci-logo.jpg"
     }
   }
 ]

@@ -4,48 +4,48 @@
     "name": "Dior",
     "established": 1946,
     "country": "France",
-    "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/chanel.png"
+    "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/dior.png"
   },
   {
     "id": 202,
     "name": "Prada",
     "established": 1913,
     "country": "Italy",
-    "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/prada-logo.jpg"
+    "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/prada.png"
   },
   {
     "id": 203,
     "name": "YSL",
     "established": 1961,
     "country": "France",
-    "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/ysl-logo.jpg"
+    "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/ysl.jpeg"
   },
   {
     "id": 204,
     "name": "Givenchy",
     "established": 1952,
     "country": "France",
-    "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/givenchy-logo.jpg"
+    "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/givenchy.jpeg"
   },
   {
     "id": 205,
     "name": "Chanel",
     "established": 1910,
     "country": "France",
-    "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/chanel-logo.jpg"
+    "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/chanel.png"
   },
   {
     "id": 206,
     "name": "Gucci",
     "established": 1921,
     "country": "Italy",
-    "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/gucci-logo.jpg"
+    "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/gucci.png"
   },
   {
     "id": 207,
     "name": "Tom Ford",
     "established": 2006,
     "country": "USA",
-    "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/tom-ford-logo.jpg"
+    "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/tomford.jpeg"
   }
 ]
