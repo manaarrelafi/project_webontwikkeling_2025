@@ -1,45 +1,51 @@
 [
-    {
-      "id": 101,
-      "name": "Luxury Scents Co.",
-      "established": 1985,
-      "country": "France",
-      "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/luxury-scents-logo.jpg"
-    },
-    {
-      "id": 102,
-      "name": "Velvet Perfumes",
-      "established": 1998,
-      "country": "Italy",
-      "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/velvet-perfumes-logo.jpg"
-    },
-    {
-      "id": 103,
-      "name": "Aqua Parfum",
-      "established": 2005,
-      "country": "Greece",
-      "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/aqua-parfum-logo.jpg"
-    },
-    {
-      "id": 104,
-      "name": "Royal Essence",
-      "established": 2010,
-      "country": "United Arab Emirates",
-      "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/royal-essence-logo.jpg"
-    },
-    {
-      "id": 105,
-      "name": "Sweet Aromas",
-      "established": 2000,
-      "country": "Belgium",
-      "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/sweet-aromas-logo.jpg"
-    },
-    {
-      "id": 106,
-      "name": "Nature's Touch",
-      "established": 2015,
-      "country": "Switzerland",
-      "logoUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/natures-touch-logo.jpg"
-    }
-  ]
-  
+  {
+    "id": 201,
+    "name": "Dior",
+    "established": 1946,
+    "country": "France",
+    "logoUrl": "https://example.com/images/dior-logo.jpg"
+  },
+  {
+    "id": 202,
+    "name": "Prada",
+    "established": 1913,
+    "country": "Italy",
+    "logoUrl": "https://example.com/images/prada-logo.jpg"
+  },
+  {
+    "id": 203,
+    "name": "YSL",
+    "established": 1961,
+    "country": "France",
+    "logoUrl": "https://example.com/images/ysl-logo.jpg"
+  },
+  {
+    "id": 204,
+    "name": "Givenchy",
+    "established": 1952,
+    "country": "France",
+    "logoUrl": "https://example.com/images/givenchy-logo.jpg"
+  },
+  {
+    "id": 205,
+    "name": "Chanel",
+    "established": 1910,
+    "country": "France",
+    "logoUrl": "https://example.com/images/chanel-logo.jpg"
+  },
+  {
+    "id": 206,
+    "name": "Gucci",
+    "established": 1921,
+    "country": "Italy",
+    "logoUrl": "https://example.com/images/gucci-logo.jpg"
+  },
+  {
+    "id": 207,
+    "name": "Tom Ford",
+    "established": 2006,
+    "country": "USA",
+    "logoUrl": "https://example.com/images/tom-ford-logo.jpg"
+  }
+]
