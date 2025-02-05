@@ -6,7 +6,7 @@
     "price": 89.99,
     "inStock": true,
     "releaseDate": "2023-04-20",
-    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/gucci-flora.avif",
+    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/gucci-flora.jpeg",
     "category": "Floral",
     "notes": ["Lily", "Rose", "Jasmine"],
     "brand": {
@@ -24,7 +24,7 @@
     "price": 120.50,
     "inStock": true,
     "releaseDate": "2022-09-15",
-    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/velvet-bloom.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/prada-paradoxe.jpeg",
     "category": "Woody",
     "notes": ["Sandalwood", "Musk", "Peony"],
     "brand": {
@@ -42,7 +42,7 @@
     "price": 95.25,
     "inStock": false,
     "releaseDate": "2023-01-30",
-    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/lelegance.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/ysl-libre.jpeg",
     "category": "Oriental",
     "notes": ["Blackcurrant", "Vanilla", "Amber"],
     "brand": {
@@ -60,7 +60,7 @@
     "price": 88.90,
     "inStock": true,
     "releaseDate": "2023-05-10",
-    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/divine-bloom.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/givenchy-l'interdit.jpeg",
     "category": "Citrus",
     "notes": ["Citrus", "Bergamot", "Sandalwood"],
     "brand": {
@@ -78,7 +78,7 @@
     "price": 98.50,
     "inStock": true,
     "releaseDate": "2022-03-25",
-    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/coco-essence.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/chanel-no5.jpeg",
     "category": "Gourmand",
     "notes": ["Vanilla", "Orange Blossom", "Tonka Bean"],
     "brand": {
@@ -96,7 +96,7 @@
     "price": 75.99,
     "inStock": false,
     "releaseDate": "2021-11-05",
-    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/gucci-flora.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/gucci-bloom.jpeg",
     "category": "Floral",
     "notes": ["Magnolia", "Rose", "Citrus"],
     "brand": {
@@ -114,7 +114,7 @@
     "price": 115.75,
     "inStock": true,
     "releaseDate": "2023-09-12",
-    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/noir-intense.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/tomford-lostcherry.jpeg",
     "category": "Woody",
     "notes": ["Oud", "Black Pepper", "Leather"],
     "brand": {
@@ -132,7 +132,7 @@
     "price": 72.50,
     "inStock": true,
     "releaseDate": "2022-06-15",
-    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/jardin-damour.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/dior-j'adore.jpeg",
     "category": "Fresh",
     "notes": ["Lemon", "Green Tea", "Jasmine"],
     "brand": {
@@ -150,7 +150,7 @@
     "price": 110.99,
     "inStock": true,
     "releaseDate": "2021-04-01",
-    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/amber-nights.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/chanel-coco.jpeg",
     "category": "Oriental",
     "notes": ["Amber", "Cinnamon", "Patchouli"],
     "brand": {
@@ -168,7 +168,7 @@
     "price": 85.50,
     "inStock": true,
     "releaseDate": "2023-08-10",
-    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/mystic-breeze.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/project_webontwikkeling_2025/refs/heads/main/images/gucci-guilty.jpeg",
     "category": "Fresh",
     "notes": ["Sea Salt", "Citrus", "White Musk"],
     "brand": {
